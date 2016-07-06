@@ -1,27 +1,13 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
+Bienvenue sur l'espace de travail du site web en construction https://mlc-lille.github.io/
 
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+N'hésitez pas à nous envoyer vos commentaires en ajoutant une "issue" après vous être connecté à Github : https://github.com/MLC-Lille/MLC-Lille.github.io/issues/new
 
-## Getting Started
+Pour ceux à l'aise avec le code html, n'hésitez pas à créer un "Pull request" :
+- aller sur : https://github.com/MLC-Lille/MLC-Lille.github.io
+- cliquez sur un fichier (le fichier principal étant index.html)
+- vous arrivez sur le code du fichier. Par exemple https://github.com/MLC-Lille/MLC-Lille.github.io/blob/master/index.html
+- cliquez sur le stylo en haut à droite pour forker et modifier le fichier
+- Une fois les modifications faites, ajouter une description de votre modification dans le champ tout en bas de la page (facultatif)
+- Cliquez sur "Propose file change"
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/creative/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-creative.git`
-* Fork the repo
 
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-creative/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/creative/).
-
-## Creator
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-creative/blob/gh-pages/LICENSE) license.
