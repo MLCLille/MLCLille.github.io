@@ -9,5 +9,10 @@ Pour ceux à l'aise avec le code html, n'hésitez pas à créer un "Pull request
 - cliquez sur le stylo en haut à droite pour forker et modifier le fichier
 - Une fois les modifications faites, ajouter une description de votre modification dans le champ tout en bas de la page (facultatif)
 - Cliquez sur "Propose file change"
+- Cliquez sur "Create pull request" deux fois
 
+Nous recevons alors votre proposition de modification. Et nous la validerons après vérification.
 
+Merci d'avance pour vos contributions !
+
+L'équipe MLC Lille
