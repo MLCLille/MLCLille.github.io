@@ -1,4 +1,4 @@
-Bienvenue sur l'espace de travail du site web en construction https://mlc-lille.github.io/
+Bienvenue sur l'espace de travail du site web en construction https://mlclille.github.io/
 
 N'hésitez pas à nous envoyer vos commentaires en ajoutant une "issue" après vous être connecté à Github : https://github.com/MLC-Lille/MLC-Lille.github.io/issues/new
 
