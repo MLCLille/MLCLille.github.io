@@ -13,7 +13,7 @@ body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
 hr {
-  border-color: #9cb45e;
+  border-color: #c3d217;
   border-width: 3px;
   max-width: 50px;
 }
@@ -24,7 +24,7 @@ a {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
-  color: #99b65a;
+  color: #c3d217;
 }
 a:hover,
 a:focus {
@@ -337,8 +337,8 @@ fieldset[disabled] .btn-default.active {
 }
 .btn-primary {
   color: #ffffff;
-  background-color: #99b65a;
-  border-color: #99b65a;
+  background-color: #c3d217;
+  border-color: #c3d217;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
