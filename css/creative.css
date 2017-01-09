@@ -60,7 +60,7 @@ p {
   color: white;
 }
 .text-faded {
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(255, 255, 255);
 }
 section {
   padding: 100px 0;
